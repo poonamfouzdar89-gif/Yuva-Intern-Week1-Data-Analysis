@@ -135,3 +135,24 @@ Yuva-Intern-Week1-Data-Analysis/
 ├── data_analysis.py
 ├── .gitignore
 └── README.md
+
+How to Run
+1. Clone the repository
+git clone https://github.com/poonamfouzdar89-gif/Yuva-Intern-Week1-Data-Analysis.git
+
+2. Open the project folder
+cd Yuva-Intern-Week1-Data-Analysis
+
+3. Install required libraries
+pip install pandas numpy matplotlib
+
+4. Add the dataset
+Place StudentsPerformance.csv in the project folder.
+5. Run the Python file
+python data_analysis.py
+
+Internship
+Organization: Yuva Intern
+Internship: Virtual Data Analysis Apprentice Internship
+Week: 1
+Task: Data Exploration and Problem Definition
