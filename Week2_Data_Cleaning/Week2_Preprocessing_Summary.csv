@@ -1,0 +1,8 @@
+Metric,Result
+Original rows,1000
+Processed rows,1000
+Original columns,8
+Processed columns,15
+Missing values after processing,0
+Duplicate rows after processing,0
+New columns added,7
