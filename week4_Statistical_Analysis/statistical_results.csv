@@ -1,0 +1,4 @@
+Test,Statistic,P-value,Effect size,Effect measure,95% CI lower,95% CI upper,Conclusion
+Welch independent t-test,5.786983157907755,1.0425616722069538e-08,0.37628544524557933,Cohen's d,3.7120409729664336,7.523257239672149,Significant difference in group means
+One-way ANOVA,6.521582600453217,5.592272384104114e-06,0.03176277193004075,Eta squared,,,At least one group mean differs
+Pearson correlation,0.954598077146248,0.0,0.954598077146248,Pearson r,0.9487504972880841,0.9597922130991516,Significant linear association
